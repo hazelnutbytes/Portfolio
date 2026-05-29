@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built to showcase my projects, skills, and journey as a developer. It serves as a central place where I highlight my work in web development and software engineering.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 https://magical-chebakia-e60593.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="1439" height="816" alt="image" src="https://github.com/user-attachments/assets/fc3dd4b5-ce34-4048-9738-004a4ecadb76" />
 
-## React Compiler
+<img width="1450" height="828" alt="image" src="https://github.com/user-attachments/assets/ac3abc82-3b66-4852-836d-f33baff97706" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Netlify (Deployment)
+
+---
+
+## ✨ Features
+
+- Clean and responsive design
+- Smooth scrolling and modern UI
+- Projects showcase section
+- Skills and tech stack overview
+- Contact section for easy communication
+- Fully mobile-friendly layout
+
+---
+
+## 📁 Project Structure
+src/
+│
+├── components/ # Reusable UI components
+├── pages/ # Main sections (Home, About, Projects, Contact)
+├── assets/ # Images and icons
+└── App.jsx # Main app file
+
+---
+
+## 📌 Purpose
+
+This portfolio was built to:
+- Showcase my frontend development skills
+- Display my personal and academic projects
+- Serve as a digital resume
+- Track my growth as a developer
+
+---
+
+
+## ⚡ Future Improvements
+
+- Add backend for contact form
+- Improve animations and transitions
+- Add blog section
+- Optimize performance and SEO
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning purposes.
